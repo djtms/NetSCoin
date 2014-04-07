@@ -12,7 +12,7 @@ Developers should expect to rework and resubmit patches if they don't match the 
 coding conventions (see coding.txt) or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are 
-regularly created to indicate new official, stable release versions of NobleCoin.
+regularly created to indicate new official, stable release versions of NetSCoin.
 
 Feature branches are created when there are major new features being worked on by several people.
  
